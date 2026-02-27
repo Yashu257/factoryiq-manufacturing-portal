@@ -350,6 +350,11 @@ export default function AnalyticsPage() {
           })}
         </div>
       </div>
+
+      {/* Copyright Footer */}
+      <div className="mt-8 pt-4 border-t border-secondary-200 text-center">
+        <p className="text-sm text-secondary-500">Copyright belongs to Yashwanth created in 2026</p>
+      </div>
     </div>
   );
 }

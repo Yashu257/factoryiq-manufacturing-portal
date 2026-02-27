@@ -40,7 +40,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="h-screen w-screen overflow-hidden flex items-center justify-center bg-gradient-to-br from-primary-50 via-white to-secondary-100 p-4">
+    <div className="h-screen w-full overflow-hidden flex flex-col items-center justify-center bg-gradient-to-br from-primary-50 via-white to-secondary-100 p-4">
       <div className="w-full max-w-md">
         {/* Logo & Header */}
         <div className="text-center mb-8">
